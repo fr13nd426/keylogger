@@ -43,6 +43,7 @@ pythonw keylogger.py
 • The script hides the console window using ctypes for stealth.
 
 𝑳𝒊𝒏𝒖𝒙
+
  • you can either make a virtual enviroment: 
 
 pytohn3 -m venv venv
