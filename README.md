@@ -56,12 +56,12 @@ pip install pynput --break-system-packages
 
 • Run the script in the background using:
 
-python keylogger.py &
+python3 keylogger.py &
 
 
 • Or detach it from the terminal using:
 
-nohup python keylogger.py &
+nohup python3 keylogger.py &
 
 
 𝐍𝐨𝐭𝐞: It requires a graphical environment (e.g., X11). May not work in headless or TTY sessions.
