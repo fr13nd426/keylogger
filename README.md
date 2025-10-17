@@ -1,4 +1,4 @@
-# Assignment 🔑 Cross-Platform Keylogger (Educational Use Only)
+ 🔑 Cross-Platform Keylogger (Educational Use Only)
 
 ⚠️ 𝐃𝐢𝐬𝐜𝐥𝐚𝐢𝐦𝐞𝐫:
 This script is for educational purposes only. Do not use it for malicious purposes. Monitoring someone else's device without their consent is illegal and unethical. Always ensure compliance with local laws and regulations.
